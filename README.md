@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Param.
-- 👀 I’m interested in React, Angular, Node.
+- 👀 I’m interested in React, Angular, Node application development.
 - 🌱 I’m currently learning NextJs, Redux, Functional programming.
 - 💞️ I’m looking to collaborate on Frontend & Backend Development.
 - 📫 How to reach me on changulpaye@gmail.com.
