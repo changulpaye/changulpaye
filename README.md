@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 My name is Parmeshwar Changulpaye. I am a Frontend Application Developer. I am from India, living in Pune and working at UBS.
 
-## &#x270d; Content Creation and Vlogging
-
-Apart from coding , I also make technical videos. You can check the out on LinkedIn
-
 ## 🔧 Langueages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
