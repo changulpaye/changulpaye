@@ -45,7 +45,7 @@ Apart from coding , I also make technical videos. You can check the out on Linke
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changulpaye&repo=todo-list-react-redux&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/changulpaye/changulpaye">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changulpaye&COVID-19-Information&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changulpaye&repo=COVID-19-Information&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/changulpaye/changulpaye">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=changulpaye&repo=react-formik-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
