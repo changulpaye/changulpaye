@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Parmeshwar Changulpaye. I am a Frontend Application Developer. I am from India, living in Pune and working at UBS.
+My name is Parmeshwar Changulpaye. I am a Frontend Application Developer. I am from India, living in Pune and working at Globant.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
